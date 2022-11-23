@@ -1,0 +1,110 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    height: 11vh;
+    margin: -18px 1px; 
+    padding: auto;
+    pointer-events: painted;
+    filter: invert(100%);
+    -webkit-filter: invert(100%);
+  }
+  img{
+    float: left;
+  }
+  span{
+    font-size: 43px;
+    margin: -18px 2px;
+    color: rgb(255, 255, 255);
+  }
+  .App-header{
+    font-size: 22px;
+    outline: none;
+    border-radius: 32px;
+  }
+  .App-link {
+    color: #61dafb;
+  }
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  .nv {
+    box-shadow: inset 0 0 0 0 #54b3d6;
+    color: #54b3d6;
+    padding: 7px 32px;
+    margin:5px 6px;
+  /* margin-left: 2rem;
+  margin-right: 2rem; */
+  text-decoration: none;
+  border-radius: 32px;
+  border:1.4px solid #54b3d6;
+  font-size: 15px;
+    transition: color .5s ease-in-out,
+     box-shadow .8s ease-in-out;
+     justify-content: center;
+    align-items: center;
+    transition:all .5s ease-in-out;
+  }
+  .nv:hover {
+    color: #fff;
+    box-shadow: inset 5px 10px 30px 30px #54b3d6;
+    transform: scale(1.1);
+    border:1.4px solid #fff;
+  }
+  h1{
+    font-size: 42px;
+  }
+  .DD{
+    margin-left: 82px;
+  }
+  
+
+  .cardd{
+    margin: 20px;
+    width: 350px;
+    height: 400px;
+    position: relative;
+    background-color: white;
+    overflow: hidden;
+}
+  .cardd .img{
+    width: 100%;
+    height: 320px;
+}
+.cardd .img img{
+    width: 100%;
+    height: 100%;
+}
+.cardd .content{
+    width: 100%;
+    height: 80px;
+    position: absolute;
+    bottom: 0;
+    background-color: rgb(120, 146, 146);
+    transition: 0.8s;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    box-sizing: border-box;
+}
+.cardd .content h1{
+    margin-top: 5px;
+    letter-spacing: 1px;
+    color: white;
+    text-align: center;
+}
+.cardd .content button{
+    text-align: justify;
+    margin-top: 20px;
+    /* letter-spacing: 1px; */
+    color: rgba(255, 255, 255, 0.8);
+}
+.cardd:hover .content{
+    height: 200px;
+    background-color: rgba(145, 181, 181,0.2);
+   
+}
