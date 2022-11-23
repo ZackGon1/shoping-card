@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shoping-card/static/css/main.d65fef07.css",
+    "main.js": "/shoping-card/static/js/main.8eb82759.js",
+    "static/media/img2.png": "/shoping-card/static/media/img2.de41f6259c4d58c5e4b1.png",
+    "static/media/img1.png": "/shoping-card/static/media/img1.092465e8e510ac02b7f9.png",
+    "static/media/bootstrap-icons.woff?": "/shoping-card/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/Zoro.jpg": "/shoping-card/static/media/Zoro.92a6945071334639ae1f.jpg",
+    "static/media/logo.png": "/shoping-card/static/media/logo.9f1b6aea27be034dbdf8.png",
+    "static/media/sanji.jpg": "/shoping-card/static/media/sanji.38781686b14671d1975e.jpg",
+    "static/media/bootstrap-icons.woff2?": "/shoping-card/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/img3.jpg": "/shoping-card/static/media/img3.23a3c5951c4b8a376b23.jpg",
+    "static/media/Luffy.jpg": "/shoping-card/static/media/Luffy.499427e77e99e08a805d.jpg",
+    "index.html": "/shoping-card/index.html",
+    "main.d65fef07.css.map": "/shoping-card/static/css/main.d65fef07.css.map",
+    "main.8eb82759.js.map": "/shoping-card/static/js/main.8eb82759.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d65fef07.css",
+    "static/js/main.8eb82759.js"
+  ]
+}
